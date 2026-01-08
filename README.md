@@ -78,5 +78,3 @@
 
 <hr />
 
-<h2>Licença</h2>
-<p>Defina aqui a licença do repositório (ex: MIT) ou mantenha como interno/privado.</p>
